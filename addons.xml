@@ -1,8 +1,8 @@
 ﻿<addons>
 
-<addon id="plugin.video.Misc"
-	name="Misc"
-	version="1.0.0"
+<addon id="plugin.video.YTmisc"
+	name="Misc Addons"
+	version="1.0.1"
 	provider-name="misc12345">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -13,18 +13,18 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Misc</summary>
-    <description lang="en">Misc</description>
+    <summary lang="en">Misc Addons</summary>
+    <description lang="en">Misc Addons</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
   </extension>
 </addon>>
 
-<addon id="plugin.video.YTnews"
-	name="新聞 及 週刊"
-	version="1.1.6.8"
-	provider-name="misc123">
+<addon id="plugin.video.YTnews2"
+	name="新聞 及 週刊 2"
+	version="1.0.1"
+	provider-name="misc12345">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -34,8 +34,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">YT News</summary>
-    <description lang="en">YT News</description>
+    <summary lang="en">YT News 2</summary>
+    <description lang="en">YT News 2</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
@@ -43,8 +43,8 @@
 </addon>
 
 <addon id="plugin.video.YTmusic2"
-	name="Learn to play Music"
-	version="1.0.0"
+	name="Learn to play Music 2"
+	version="1.0.1"
 	provider-name="misc12345">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -55,8 +55,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Learn to play Music</summary>
-    <description lang="en">Learn to play Music</description>
+    <summary lang="en">Learn to play Music 2</summary>
+    <description lang="en">Learn to play Music 2</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
