@@ -63,4 +63,17 @@
   </extension>
 </addon>
 
+<addon id="repository.misc12345" name="misc12345" version="1.0.2" provider-name="misc12345">
+	<extension point="xbmc.addon.repository" name="misc12345">
+		<info compressed="false">http://raw.github.com/misc12345/12345repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/misc12345/12345repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/misc12345/12345repo/master/Plugin</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>misc12345</summary>
+		<description>misc12345 repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 </addons>
